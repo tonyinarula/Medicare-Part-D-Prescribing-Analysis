@@ -8,13 +8,13 @@ their specialty?
 
 ### Data Source
 CMS Medicare Part D Prescribers by Provider and Drug
-[Year] — ~25M records, publicly available at data.cms.gov
+[2023] — ~25M records, publicly available at data.cms.gov
 
 ### Tools
 DuckDB · Python (pandas, plotly, seaborn) · Tableau Public
 
 ### Key Findings
-- [Your actual finding #1]
+- There are 779 times where a state has only one provider for a specialty
 - [Your actual finding #2]
 - [One surprising or non-obvious observation]
 
