@@ -11,13 +11,13 @@ CMS Medicare Part D Prescribers by Provider and Drug
 DuckDB · Python (pandas, plotly, seaborn) · Tableau Public
 
 ### Key Findings
-- There are 779 times where a state has only one CMS provider for a specialty. States like California and Florida have over 20 specialties with only one provider for the whole state.
-- Puerto Rico is the most underserved US jurisdiction, with 7 specialties having far fewer  CMS providers than expected
-- [One surprising or non-obvious observation]
+- There are over 700 times where a state has only one CMS provider for a specialty. States like California and Florida have over 25 specialties with only one provider for the whole state.
+- Puerto Rico has 7 specialty shortfalls relative to the national average. The gaps are deepest in physicial assistants and nurse practioners, where the territory would need an estimated 1000 and 2100 additional providers respectively to reach parity. This shortfall coincides with above-average cost-per-claim in the affected specialties: Beneficiaries in PR spend nearly 3000 dollars more per claim than the national average.
+
 
 ### Tableau Dashboard
 [Link to Tableau Public]
 
 ### Methodology
-Brief paragraph on outlier detection approach and 
-any data quality decisions you made.
+//Brief paragraph on outlier detection approach and 
+any data quality decisions you made.//
