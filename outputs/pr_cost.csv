@@ -1,0 +1,98 @@
+State,Specialty,total_cost,total_claims,cost_per_claim
+PR,Medical Oncology,1023911.4700000001,259.0,3953.33
+PR,Nurse Practitioner,2363141.55,818.0,2888.93
+PR,Hematology-Oncology,242628500.33,96209.0,2521.89
+PR,Hematology,2600052.4099999997,1046.0,2485.71
+PR,Adult Congenital Heart Disease,121814.08,64.0,1903.35
+PR,Infectious Disease,8724651.21,8440.0,1033.73
+PR,Gynecological Oncology,623167.38,626.0,995.48
+PR,Rheumatology,171697240.80000004,345565.0,496.86
+PR,Allergy/ Immunology,8851952.430000002,18725.0,472.73
+PR,Pulmonary Disease,136717333.26,400576.0,341.3
+PR,Dermatology,53780507.65999999,167997.0,320.13
+PR,Endocrinology,192934814.45000008,817455.0,236.02
+PR,Advanced Heart Failure and Transplant Cardiology,2301749.24,9949.0,231.35
+PR,Pharmacist,24482338.28,127113.0,192.6
+PR,Optometry,206007.62,1071.0,192.35
+PR,Clinical Cardiac Electrophysiology,3230762.8600000003,16889.0,191.29
+PR,Neurology,98603533.22000001,537594.0,183.42
+PR,Pharmacy,40498.10999999999,277.0,146.2
+PR,Nephrology,34911760.85999999,248480.0,140.5
+PR,Neurosurgery,311474.00000000006,2371.0,131.37
+PR,Interventional Radiology,100180.10999999999,830.0,120.7
+PR,Urology,30022658.389999997,251806.0,119.23
+PR,Preventive Medicine,1206431.2600000002,11911.0,101.29
+PR,Vascular Surgery,876237.0000000001,8969.0,97.7
+PR,Gastroenterology,33024600.310000002,354200.0,93.24
+PR,Medical Genetics and Genomics,2605.27,28.0,93.05
+PR,Other Clinic/Center,638736.9000000003,7150.0,89.33
+PR,Ophthalmology,66723379.660000004,755988.0,88.26
+PR,Interventional Cardiology,2089906.2300000004,24242.0,86.21
+PR,Cardiac Surgery,142885.47999999998,1676.0,85.25
+PR,Clinic or Group Practice,112307.36000000002,1320.0,85.08
+PR,Internal Medicine,515807606.83999974,6182489.0,83.43
+PR,Pathology,3832.59,46.0,83.32
+PR,Obstetrics & Gynecology,6742784.659999999,82593.0,81.64
+PR,Physician Assistant,4807.77,62.0,77.54
+PR,Cardiology,130023539.53999995,1710607.0,76.01
+PR,Nuclear Medicine,203698.25999999995,2714.0,75.05
+PR,Geriatric Medicine,5463827.539999999,79685.0,68.57
+PR,Health Maintenance Organization,391117.31,6337.0,61.72
+PR,Community Health Worker,221929.14999999997,3639.0,60.99
+PR,Specialist,4345488.83,73825.0,58.86
+PR,Critical Care (Intensivists),15472.720000000001,277.0,55.86
+PR,Family Practice,114276201.05999993,2144499.0,53.29
+PR,Student in an Organized Health Care Education/Training Program,1377928.3499999996,26512.0,51.97
+PR,Plastic Surgery,23179.309999999998,454.0,51.06
+PR,General Practice,501944064.19999933,10036483.0,50.01
+PR,Osteopathic Manipulative Medicine,722351.72,14719.0,49.08
+PR,Pediatric Medicine,361681.7100000001,7775.0,46.52
+PR,Thoracic Surgery,16389.25,355.0,46.17
+PR,Family Medicine,2506413.21,55025.0,45.55
+PR,"Neuromusculoskeletal Medicine, Sports Medicine",368322.7900000001,8365.0,44.03
+PR,Peripheral Vascular Disease,221312.80000000005,5086.0,43.51
+PR,Legal Medicine,794616.9600000002,18827.0,42.21
+PR,Contractor,288269.28,7023.0,41.05
+PR,Anesthesiology,896923.07,22520.0,39.83
+PR,Emergency Medicine,2613052.400000002,70878.0,36.87
+PR,Otolaryngology,2510963.4600000004,68957.0,36.41
+PR,General Surgery,1930991.2199999997,54359.0,35.52
+PR,Hospitalist,979025.0099999998,27947.0,35.03
+PR,Hospice and Palliative Care,17608.01,509.0,34.59
+PR,Sleep Medicine,50795.53999999999,1656.0,30.67
+PR,Colorectal Surgery (Proctology),198900.08999999997,6536.0,30.43
+PR,Hospital,358.96,12.0,29.91
+PR,Personal Emergency Response Attendant,301213.74000000017,10279.0,29.3
+PR,Surgical Oncology,104032.01999999996,3604.0,28.87
+PR,"Medical Genetics, Ph.D. Medical Genetics",411625.23000000004,14378.0,28.63
+PR,"Psychologist, Clinical",207651.54000000004,8149.0,25.48
+PR,Clinic/Center,633793.4900000001,27079.0,23.41
+PR,Geriatric Psychiatry,158662.40999999997,6869.0,23.1
+PR,Physical Medicine and Rehabilitation,1899794.36,82430.0,23.05
+PR,Podiatry,1214005.98,54251.0,22.38
+PR,"Residential Treatment Facility, Physical Disabilities",368.94,17.0,21.7
+PR,Orthopaedic Surgery,18387.94,849.0,21.66
+PR,Interventional Pain Management,477233.04,22256.0,21.44
+PR,Orthopedic Surgery,1604864.3099999996,75933.0,21.14
+PR,Diagnostic Radiology,127847.19999999998,6971.0,18.34
+PR,Psychiatry,35978050.42,1967275.0,18.29
+PR,Marriage and Family Therapist,20562.539999999997,1137.0,18.08
+PR,Neuropsychiatry,1590620.84,91629.0,17.36
+PR,Psychiatry & Neurology,8216847.630000004,495874.0,16.57
+PR,Licensed Professional Counselor,224735.93000000002,14160.0,15.87
+PR,Radiation Oncology,33855.020000000004,2157.0,15.7
+PR,Pain Management,92180.76,6046.0,15.25
+PR,"Emergency Medical Technician, Basic",708.3199999999999,57.0,12.43
+PR,General Acute Care Hospital,447.28,37.0,12.09
+PR,Thoracic Surgery (Cardiothoracic Vascular Surgery),642.41,57.0,11.27
+PR,Surgery,458.17,42.0,10.91
+PR,Plastic and Reconstructive Surgery,21872.710000000003,2078.0,10.53
+PR,Neurological Surgery,668.1500000000001,71.0,9.41
+PR,Public Health or Welfare Agency,103.54,12.0,8.63
+PR,Hand Surgery,15648.09,1832.0,8.54
+PR,Maxillofacial Surgery,16806.84,2228.0,7.54
+PR,Dentist,931540.5800000001,129481.0,7.19
+PR,Sports Medicine,4751.2,708.0,6.71
+PR,Lodging,80.52,13.0,6.19
+PR,Oral Surgery (Dentist only),118038.41000000002,20494.0,5.76
+PR,Oral & Maxillofacial Surgery,3745.63,735.0,5.1
