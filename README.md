@@ -19,5 +19,4 @@ DuckDB · Python (pandas, plotly, seaborn) · Tableau Public
 [Link to Tableau Public]
 
 ### Methodology
-//Brief paragraph on outlier detection approach and 
-any data quality decisions you made.//
+//Brief paragraph on outlier detection approach.//
