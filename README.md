@@ -1,10 +1,7 @@
 ## Medicare Part D Prescribing Cost Analysis
 
 ### Question
-Which providers, specialties, and geographies drive 
-the highest per-claim drug costs in Medicare Part D, 
-and which providers are statistical outliers within 
-their specialty?
+Which states and territories are most underserved by Medicare providers, and which specialties drive the greatest access gaps?
 
 ### Data Source
 CMS Medicare Part D Prescribers by Provider and Drug
@@ -14,8 +11,8 @@ CMS Medicare Part D Prescribers by Provider and Drug
 DuckDB · Python (pandas, plotly, seaborn) · Tableau Public
 
 ### Key Findings
-- There are 779 times where a state has only one provider for a specialty
-- [Your actual finding #2]
+- There are 779 times where a state has only one CMS provider for a specialty. States like California and Florida have over 20 specialties with only one provider for the whole state.
+- Puerto Rico is the most underserved US jurisdiction, with 7 specialties having far fewer  CMS providers than expected
 - [One surprising or non-obvious observation]
 
 ### Tableau Dashboard
