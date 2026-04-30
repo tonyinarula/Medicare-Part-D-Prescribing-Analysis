@@ -1,13 +1,21 @@
-State,Count
-PR,5
-GU,1
-MP,1
-DC,1
-NM,1
-ND,1
-WY,4
-WV,2
-AK,1
-VT,1
-ID,1
-FL,1
+State,Specialty,Count
+PR,Nurse Practitioner,5
+GU,Dentist,1
+MP,Dentist,1
+PR,Optometry,5
+DC,Optometry,1
+PR,Physician Assistant,5
+NM,Urology,1
+ND,Urology,1
+WY,Ophthalmology,4
+WY,Plastic and Reconstructive Surgery,4
+WV,Oral Surgery (Dentist only),2
+AK,Pulmonary Disease,1
+WY,Pulmonary Disease,4
+PR,Orthopedic Surgery,5
+PR,Radiation Oncology,5
+VT,Neurosurgery,1
+WY,Allergy/ Immunology,4
+WV,Hand Surgery,2
+ID,Surgical Oncology,1
+FL,Phlebology,1
